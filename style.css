@@ -1,0 +1,43 @@
+body {
+  margin: auto;
+  
+}
+
+.header {
+    width: 100vw;
+    background: #e6e6e6;
+    font-size: 30px;
+    text-align: center;
+}
+
+img {
+    width: 50px;
+    height: 50px;
+    margin-top: 30px;
+}
+.works{
+  width: 100vw;
+  font-size: 25px;
+  text-align: center;
+
+}
+.lightbulb{
+  width: 100px;
+  height: 100px;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+#light{
+  margin-top: 30px;
+}
+#services{
+  margin-top: 30px;
+
+}
+#company{
+  margin-top: 30px;
+
+}
+@media (max-width:300px) {
+}
